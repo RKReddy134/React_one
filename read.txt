@@ -1,1 +1,5 @@
 hiii this is ramakrishna reddy 
+i am learning devops yestarday i complited maven 
+maven is a build automation and project management tool.developed by apache software foundation released in 2004 
+primly used for java projects using maven generate jar or war or ear files based on the project 
+pom.xml is the configuration file for maven project it contains project-specific information,build 
